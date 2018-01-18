@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (9.1.0)
+    rspec-core (3.7.1)
+      rspec-support (~> 3.7.0)
+    rspec-support (3.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  rspec-core
+
+BUNDLED WITH
+   1.16.0
