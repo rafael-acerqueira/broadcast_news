@@ -1,0 +1,80 @@
+[
+  {
+      "course_id": "5a6141397c31a40053bc1ee7",
+      "course_slug": "curso-1",
+      "title": "Curso 1",
+      "description": "Meu primeiro curso de teste",
+      "is_paid": true,
+      "objective": "",
+      "price": 30,
+      "published": true,
+      "certification": "",
+      "published_at": "",
+      "published_until": null,
+      "target_audience": "",
+      "time_available": null,
+      "workload": 0,
+      "lectures": [],
+      "category": {
+          "category_id": "5a6141327c31a40053bc1ee6",
+          "category_slug": "categoria-1-51",
+          "title": "Categoria 1"
+      },
+      "logo_url": "https://cdn.eadbox.com/assets/course_default_logo-ce864d7f4f396c78cbd5ff7996570d94.jpg",
+      "listed": true,
+      "subscriptions_count": 0,
+      "topics": []
+  },
+  {
+      "course_id": "5a629192ad6957004f209395",
+      "course_slug": "curso-2",
+      "title": "Curso 2",
+      "description": "Esse curso é um curso bem legal que vai transformar sua vida, cara",
+      "is_paid": false,
+      "objective": "",
+      "price": null,
+      "published": true,
+      "certification": "",
+      "published_at": "",
+      "published_until": null,
+      "target_audience": "",
+      "time_available": null,
+      "workload": 0,
+      "lectures": [],
+      "category": {
+          "category_id": "5a62918f493a260035ce90fe",
+          "category_slug": "curso-revolucionario",
+          "title": "Curso revolucionario"
+      },
+      "logo_url": "https://cdn.eadbox.com/assets/course_default_logo-ce864d7f4f396c78cbd5ff7996570d94.jpg",
+      "listed": true,
+      "subscriptions_count": 0,
+      "topics": []
+  },
+  {
+      "course_id": "5a632e7b52e88d00429305e6",
+      "course_slug": "sem-data-de-publicacao",
+      "title": "Sem data de publicação",
+      "description": null,
+      "is_paid": null,
+      "objective": null,
+      "price": null,
+      "published": true,
+      "certification": null,
+      "published_at": "",
+      "published_until": null,
+      "target_audience": null,
+      "time_available": null,
+      "workload": null,
+      "lectures": [],
+      "category": {
+          "category_id": "5a632e7a52e88d005b93049e",
+          "category_slug": "sem-data",
+          "title": "Sem data"
+      },
+      "logo_url": "https://cdn.eadbox.com/assets/course_default_logo-ce864d7f4f396c78cbd5ff7996570d94.jpg",
+      "listed": true,
+      "subscriptions_count": 0,
+      "topics": null
+  }
+]
