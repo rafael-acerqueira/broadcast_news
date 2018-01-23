@@ -6,6 +6,8 @@ gem 'rest-client'
 
 gem 'dotenv'
 
+gem 'twitter'
+
 group :test do
   gem 'rspec'
 end

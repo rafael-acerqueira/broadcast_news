@@ -5,7 +5,7 @@ This project was created as part of a exam. Everyday it will check if there are 
 
 ----
 ## Setting credentials
-Rename `.env.example` to `.env` and fill out the fields with your eadBox credentials
+Rename `.env.example` to `.env` and fill out the fields with your eadBox and Twitter credentials
 
 ----
 ## Test App
