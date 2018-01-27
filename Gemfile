@@ -8,6 +8,8 @@ gem 'dotenv'
 
 gem 'twitter'
 
+gem 'whenever', require: false
+
 group :test do
   gem 'rspec'
 end
